@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+    background-color: #CBC8C7;
+    color: #29241B;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.25rem;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 30px;
+    font-weight: 300;
+}
+ul li {
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+    color: #29241B;
+    font-size: 1.5rem;
+    line-height: 1.50;
+    text-align: left;
+    font-weight: 100;
+}
+
+#cover-img {
+    width: 40%;
+}
+
+.desc {
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 1.25;
+}
+
+h3.desc {
+    margin: 40px auto;
+    text-align: center;
+}
+
+.recipe-list {
+    background-color: #f5e4d6;
+    width: 25%;
+    margin: 40px auto;
+    text-align: left;
+    padding: 2rem;
+}
+
+.back {
+    text-decoration: none;
+    display: block;
+    margin-bottom: 2rem;
+    color:  #29241B;
+}
+
+.ingredients, .steps {
+
+    width: 50%;
+    margin: 0 auto;
+
+}
+.ingredients li {
+    list-style-type: square;
+    text-align: left;
+    font-size: 1.25rem;
+
+}
+
+
+.steps li {
+    text-align: left;
+    text-align: left;
+    font-size: 1.25rem;
+    font-weight: 100;
+}
